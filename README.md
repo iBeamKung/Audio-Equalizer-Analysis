@@ -13,7 +13,7 @@ In this project ‘Audio Equalizer Analysis’, we create an equalizer program t
 6. Can automatically equalize the audio frequency to the music genres we have.<br/>
 
 ## Result
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6Gy8a2LKGy0/0.jpg)](https://www.youtube.com/watch?v=6Gy8a2LKGy0)
+https://user-images.githubusercontent.com/9079314/142650395-595e1832-c001-4e93-88fa-eb34c5d8b312.mp4
 
 ## Necessery Links
 [Sound Volume](https://www.mathworks.com/matlabcentral/fileexchange/25584-soundvolume-set-or-get-the-system-speaker-sound-volume)<br/>
