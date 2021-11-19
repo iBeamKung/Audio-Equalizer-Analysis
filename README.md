@@ -1,4 +1,4 @@
-# 🎚 Equalizer-Signal
+# 🎚 Audio-Equalizer-Analysis
 ![1](https://user-images.githubusercontent.com/9079314/142644686-a6af73cf-d9c2-4cb7-b6da-37374c97d51b.png)
 
 ## Overview
