@@ -14,10 +14,10 @@ In this project ‘Audio Equalizer Analysis’, we create an equalizer program t
 
 ## How to use 
 1. Press the Browse button and browse the .mp3 or .wav file that you want to EQ.
-![image](https://user-images.githubusercontent.com/88607911/142720592-7a76f598-0156-4632-8387-b8d35eb4c5ca.png)
+<img src="https://user-images.githubusercontent.com/88607911/142720592-7a76f598-0156-4632-8387-b8d35eb4c5ca.png" width="350">
 2. Once the Graph Show up, Press the Start EQ button and start EQ your audio. 
-![image](https://user-images.githubusercontent.com/88607911/142721103-577a9593-6440-4703-9ffa-b3f976b1f084.png)
-![image](https://user-images.githubusercontent.com/88607911/142721151-07b94240-0b63-4d90-b81d-44cc79884903.png)
+<img src="https://user-images.githubusercontent.com/88607911/142721103-577a9593-6440-4703-9ffa-b3f976b1f084.png" width="350">
+<img src="https://user-images.githubusercontent.com/88607911/142721151-07b94240-0b63-4d90-b81d-44cc79884903.png" width="800">
 3. Done!
 
 ## Result
