@@ -5,6 +5,7 @@
 ## Overview
 In this project ‘Audio Equalizer Analysis’, we create an equalizer program that not only can EQ the select audio file but can also plot signals in form of time domain and frequency domain, and can automatically equalize audio files in a genre we want.
 - Made with Matlab R2021B
+- Volumn Function works on MacOS
 
 ## Benefits
 1. Allow you to boost or cut certain frequencies, essentially volume control for bass (lows), mids or treble (highs).<br/>
