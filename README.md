@@ -15,6 +15,11 @@ In this project ‘Audio Equalizer Analysis’, we create an equalizer program t
 5. Allow you to equalize audio frequency.<br/>
 6. Can automatically equalize the audio frequency to the music genres we have.<br/>
 
+## Integrartion knowledge of Fourier transform
+Time-domain data consists of one or more input variables u(t) and one or more output variables y(t), sampled as a function of time. Frequency-domain data consists of either transformed input and output time-domain signals or system frequency response sampled as a function of the independent variable frequency.
+- [FFT](https://www.mathworks.com/help/ident/ref/iddata.fft.html) Transform time-domain data to the frequency domain. You can specify N, the number of frequency values.
+- [IFFT](https://www.mathworks.com/help/ident/ref/iddata.ifft.html) Transform frequency-domain data to the time domain. Frequencies are linear and equally spaced.
+
 ## Third-Party Toolboxs of Matlab (Required)
 [Audio Toolbox](https://www.mathworks.com/products/audio.html)<br/>
 [Signal Processing Toolbox](https://www.mathworks.com/products/signal.html)
