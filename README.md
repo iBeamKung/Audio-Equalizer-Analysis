@@ -37,7 +37,3 @@ If your speakers aren't good, your music won't. The Equalizer can only be a part
 [Graphic Equalizer](https://www.mathworks.com/help/audio/ref/graphiceq-system-object.html#mw_a24eff78-c9ca-45ca-b8b1-52fa62629a3e)<br/>
 [Volume Slider](https://stackoverflow.com/questions/32982549/volume-slider-in-matlab-gui)<br/>
 [Volume Control](https://stackoverflow.com/questions/27512267/matlab-volume-control-gui)<br/>
-[Digital Audio Equalizer](https://www.mathworks.com/matlabcentral/fileexchange/23982-digital-audio-equalizer)<br/>
-[Equalizer, audio player, GUI](https://www.mathworks.com/matlabcentral/fileexchange/34739-equalizer-audioplayer-gui)<br/>
-[Make Audio Equalizer Using Matlab GUI](https://www.youtube.com/watch?v=3eSvtGJntac)<br/>
-[Best Equalizer Settings](https://descriptive.audio/best-equalizer-settings/)
