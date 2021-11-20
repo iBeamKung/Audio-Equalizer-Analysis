@@ -12,6 +12,11 @@ In this project ‘Audio Equalizer Analysis’, we create an equalizer program t
 5. Allow you to equalize audio frequency.<br/>
 6. Can automatically equalize the audio frequency to the music genres we have.<br/>
 
+## Third-Party Toolboxs of Matlab (Required)
+[Audio Toolbox](https://www.mathworks.com/products/audio.html)<br/>
+[Signal Processing Toolbox](https://www.mathworks.com/products/signal.html)
+
+
 ## How to use 
 1. Press the Browse button and browse the .mp3 or .wav file that you want to EQ.
 <img src="https://user-images.githubusercontent.com/88607911/142720592-7a76f598-0156-4632-8387-b8d35eb4c5ca.png" width="350">
