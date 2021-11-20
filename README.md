@@ -23,6 +23,10 @@ In this project ‘Audio Equalizer Analysis’, we create an equalizer program t
 ## Result
 https://user-images.githubusercontent.com/9079314/142650395-595e1832-c001-4e93-88fa-eb34c5d8b312.mp4
 
+## Best Equalizer settings
+Equalizer customization depends on the user what kind of sound they want, the speakers they use and what your tastes are. There is no fixed model
+If your speakers aren't good, your music won't. The Equalizer can only be a part of listening to better music.
+
 ## Necessery Links
 [Sound Volume](https://www.mathworks.com/matlabcentral/fileexchange/25584-soundvolume-set-or-get-the-system-speaker-sound-volume)<br/>
 [Code Generation for Parametric Audio Equalizer](https://www.mathworks.com/help/dsp/ug/code-generation-for-parametric-audio-equalizer.html)<br/>
@@ -36,3 +40,4 @@ https://user-images.githubusercontent.com/9079314/142650395-595e1832-c001-4e93-8
 [Digital Audio Equalizer](https://www.mathworks.com/matlabcentral/fileexchange/23982-digital-audio-equalizer)<br/>
 [Equalizer, audio player, GUI](https://www.mathworks.com/matlabcentral/fileexchange/34739-equalizer-audioplayer-gui)<br/>
 [Make Audio Equalizer Using Matlab GUI](https://www.youtube.com/watch?v=3eSvtGJntac)<br/>
+[Best Equalizer Settings](https://descriptive.audio/best-equalizer-settings/)
