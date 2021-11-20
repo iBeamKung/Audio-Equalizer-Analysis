@@ -12,6 +12,14 @@ In this project ‘Audio Equalizer Analysis’, we create an equalizer program t
 5. Allow you to equalize audio frequency.<br/>
 6. Can automatically equalize the audio frequency to the music genres we have.<br/>
 
+## How to use 
+1. Press the Browse button and browse the .mp3 or .wav file that you want to EQ.
+![image](https://user-images.githubusercontent.com/88607911/142720592-7a76f598-0156-4632-8387-b8d35eb4c5ca.png)
+2. Once the Graph Show up, Press the Start EQ button and start EQ your audio. 
+![image](https://user-images.githubusercontent.com/88607911/142721103-577a9593-6440-4703-9ffa-b3f976b1f084.png)
+![image](https://user-images.githubusercontent.com/88607911/142721151-07b94240-0b63-4d90-b81d-44cc79884903.png)
+3. Done!
+
 ## Result
 https://user-images.githubusercontent.com/9079314/142650395-595e1832-c001-4e93-88fa-eb34c5d8b312.mp4
 
