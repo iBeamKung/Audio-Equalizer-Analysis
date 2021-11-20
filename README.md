@@ -1,5 +1,6 @@
 # 🎚 Audio-Equalizer-Analysis
 ![1](https://user-images.githubusercontent.com/9079314/142644686-a6af73cf-d9c2-4cb7-b6da-37374c97d51b.png)
+[Video Presentation Audio-Equalizer-Analysis](https://youtu.be/38e9WlBwlhY)
 
 ## Overview
 In this project ‘Audio Equalizer Analysis’, we create an equalizer program that not only can EQ the select audio file but can also plot signals in form of time domain and frequency domain, and can automatically equalize audio files in a genre we want.
